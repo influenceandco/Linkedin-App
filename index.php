@@ -73,7 +73,7 @@
 			<div class="span4">
 				<div class="row-fluid">
 					<div class="span6 offset3 circle_icon circle_icon_trans">
-						<i class="fa fa-linkedin-sign fa-3x"></i>
+						<i class="fa fa-linkedin fa-3x"></i>
 					
 					</div>
 				</div>
@@ -82,7 +82,7 @@
 			<div class="span4">
 				<div class="row-fluid">
 					<div class="span8 offset2 circle_icon circle_icon_trans middle">
-						<i class="fa fa-bar-chart fa-4x"></i>
+						<i class="fa fa-bar-chart-o fa-4x"></i>
 					
 					</div>
 				</div>
@@ -234,7 +234,7 @@
 							<div class="follow_headline">
 								Executive Vice President at Influence & Co.
 							</div>
-							<button class="btn follow_button"><i class="fa-linkedin-sign"></i> Connect</button>
+							<button class="btn follow_button"><i class="fa-linkedin"></i> Connect</button>
 						</div>
 					</div>
 					<div class="span3">
@@ -248,7 +248,7 @@
 							<div class="follow_headline">
 								Executive Vice President at Influence & Co.
 							</div>
-							<button class="btn follow_button"><i class="fa fa-linkedin-sign"></i> Connect</button>
+							<button class="btn follow_button"><i class="fa fa-linkedin"></i> Connect</button>
 						</div>
 					</div>
 					<div class="span3">
@@ -262,7 +262,7 @@
 							<div class="follow_headline">
 								Executive Vice President at Influence & Co.
 							</div>
-							<button class="btn follow_button"><i class="fa fa-linkedin-sign"></i> Connect</button>
+							<button class="btn follow_button"><i class="fa fa-linkedin"></i> Connect</button>
 						</div>
 					</div>
 					<div class="span3">
@@ -276,7 +276,7 @@
 							<div class="follow_headline">
 								Executive Vice President at Influence & Co.
 							</div>
-							<button class="btn follow_button"><i class="fa fa-linkedin-sign"></i> Connect</button>
+							<button class="btn follow_button"><i class="fa fa-linkedin"></i> Connect</button>
 						</div>
 					</div>
 				</div>
@@ -298,7 +298,7 @@
 							<div class="follow_headline">
 								Executive Vice President at Influence & Co.
 							</div>
-							<button class="btn follow_button"><i class="fa fa-linkedin-sign"></i> Connect</button>
+							<button class="btn follow_button"><i class="fa fa-linkedin"></i> Connect</button>
 						</div>
 					</div>
 					<div class="span3">
@@ -312,7 +312,7 @@
 							<div class="follow_headline">
 								Executive Vice President at Influence & Co.
 							</div>
-							<button class="btn follow_button"><i class="fa fa-linkedin-sign"></i> Connect</button>
+							<button class="btn follow_button"><i class="fa fa-linkedin"></i> Connect</button>
 						</div>
 					</div>
 					<div class="span3">
@@ -326,7 +326,7 @@
 							<div class="follow_headline">
 								Executive Vice President at Influence & Co.
 							</div>
-							<button class="btn follow_button"><i class="fa fa-linkedin-sign"></i> Connect</button>
+							<button class="btn follow_button"><i class="fa fa-linkedin"></i> Connect</button>
 						</div>
 					</div>
 					<div class="span3">
@@ -340,7 +340,7 @@
 							<div class="follow_headline">
 								Executive Vice President at Influence & Co.
 							</div>
-							<button class="btn follow_button"><i class="fa fa-linkedin-sign"></i> Connect</button>
+							<button class="btn follow_button"><i class="fa fa-linkedin"></i> Connect</button>
 						</div>
 					</div>
 				</div>
@@ -360,7 +360,7 @@
 							<div class="follow_headline">
 								Executive Vice President at Influence & Co.
 							</div>
-							<button class="btn follow_button"><i class="fa fa-linkedin-sign"></i> Connect</button>
+							<button class="btn follow_button"><i class="fa fa-linkedin"></i> Connect</button>
 						</div>
 					</div>
 					<div class="span3">
@@ -374,7 +374,7 @@
 							<div class="follow_headline">
 								Executive Vice President at Influence & Co.
 							</div>
-							<button class="btn follow_button"><i class="fa fa-linkedin-sign"></i> Connect</button>
+							<button class="btn follow_button"><i class="fa fa-linkedin"></i> Connect</button>
 						</div>
 					</div>
 					<div class="span3">
@@ -388,7 +388,7 @@
 							<div class="follow_headline">
 								Executive Vice President at Influence & Co.
 							</div>
-							<button class="btn follow_button"><i class="fa fa-linkedin-sign"></i> Connect</button>
+							<button class="btn follow_button"><i class="fa fa-linkedin"></i> Connect</button>
 						</div>
 					</div>
 					<div class="span3">
@@ -402,7 +402,7 @@
 							<div class="follow_headline">
 								Executive Vice President at Influence & Co.
 							</div>
-							<button class="btn follow_button"><i class="fa fa-linkedin-sign"></i> Connect</button>
+							<button class="btn follow_button"><i class="fa fa-linkedin"></i> Connect</button>
 						</div>
 					</div>
 				</div>
