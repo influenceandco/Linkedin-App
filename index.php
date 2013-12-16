@@ -22,13 +22,11 @@
     
 <body>
 	
-				
 
 
 <div id="wrap">
 		
 		
-	
 			
 	<div id="top_section">		
 						
