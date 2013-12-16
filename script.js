@@ -1,4 +1,5 @@
 
+/************* DOCUMENT READY ***************/
 
 $(document).ready(function(){
 	
@@ -10,6 +11,7 @@ $(document).ready(function(){
 		
 });
 
+///scroll functions for landing page
 function parallaxScroll(){
 	var scrolled = $(window).scrollTop();
 	if(scrolled < 600 && scrolled > 0){
@@ -44,12 +46,12 @@ function parallaxScroll(){
 		$("#freebie").css("opacity", ((scrolled-1200)/100)/2);
 	}else{
 		$("#freebie").css("opacity", 0);
-	
 	}
 };
 
 
-
+/************* CREATE DUMMY GRAPHS FOR LANDING PAGE DESIGN ***************/
+/* I found this code online somewhere, feel free to change it with another graphing system.  This currently uses d3.js */
 function createGraph1(value1){
 	$("#pie1").empty();
 	
@@ -143,7 +145,7 @@ function createGraph2(value1){
         .text(function(d, i) { return data[i].label; });        //get the label from our original data array
 }
 
-
+/************* GET LINKEDIN DATA ***************/
 function loadData() {
 
   	IN.API.Profile("me")
@@ -164,6 +166,7 @@ function loadData() {
     });	    
 }
 
+/************* SHOW GRADE ***************/
 function showGrade(profile){
 
 	$("#grade").css("top", "0");
@@ -193,9 +196,13 @@ function showGrade(profile){
 	});
 	
 	
+	///rest of code here: use "profile" variable for all profile contents
+	
+	
 }
 
 
+///scrolling functions for new grading section
 function gradeScroll(){
 	var scrolled = $("#grade").scrollTop();
 
